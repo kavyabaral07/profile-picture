@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "github.com/kavyabaral07/barter11:barter-app-stage-11-master",
+    "slug": "snack-bb32e57c-68c9-4c3d-baab-29450a0bc246",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "github.com/kavyabaral07/Barter11:barter-app-stage-11-master @ Jun 22, 2021"
+  }
+}
